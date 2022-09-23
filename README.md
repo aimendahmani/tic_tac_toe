@@ -1,16 +1,13 @@
 # tic_tac_toe
 
-A new Flutter project.
+A new Flutter app game tic tac toe with possibilities to play in mode one vs one player or vs computer mode  
 
-## Getting Started
+## Preview
+<div>
+<img src='https://user-images.githubusercontent.com/96690034/191941799-2b795fe3-8c85-4bc4-ba29-5e227f1129c5.png', width='300'>
+<img src='https://user-images.githubusercontent.com/96690034/191941821-93b986b6-f777-493c-ab94-d3c4ff703e69.png', width='300'>
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Youtube link
+[tic tac toe flutter app](https://youtu.be/0G15mvZ7TF8)
